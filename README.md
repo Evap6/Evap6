@@ -3,7 +3,7 @@ I am a biomedical engineer working in the field of AI applied to medical image a
 
 ## Project collaborations :hammer_and_wrench:	
 
-- [**ProCAncer-I**](https://www.procancer-i.eu/) European Project funded by Horizon 2020 research and innovation programme under grant agreement No 952159
+- [**ProCAncer-I**](https://www.procancer-i.eu/) European Project funded by Horizon 2020 research and innovation programme (GA 952159)
 - [**NAVIGATOR**](http://navigator.med.unipi.it/) Regional Project PAR FAS Tuscany
 - [**TAILOR**](https://tailor-network.eu/) EU-funded ICT-48 Network (GA 952215)
 
