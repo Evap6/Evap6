@@ -1,16 +1,13 @@
+# About me
+research skills:
+- cdccd
+- cdcdc
+
+cc
+## Details
+University og psia
 ### Hi there 👋
 
-<!--
-**Evap6/Evap6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Evap6/Evap6** 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i ve collaborated with ___ Research available at [this page](https://phd.dii.unipi.it/component/users/?view=login&return=aHR0cHM6Ly9waGQuZGlpLnVuaXBpLml0L2Zvcm1hemlvbmUvaXRlbWxpc3QvY2F0ZWdvcnkvODktZWxlbmNvLWNyZWRpdGktYXR0aXZpdCVDMyVBMC1kaS1mb3JtYXppb25lLmh0bWw=&Itemid=293)
