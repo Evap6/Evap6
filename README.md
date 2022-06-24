@@ -1,5 +1,5 @@
 # About me :woman_technologist:	
-I am a biomedical engineer working in the field of AI applied to medical image analysis. The focus of my research activity, both as a researcher and as a PhD student, is the building of Deep Learning models using the Few-Shot Learning approach through the Meta-Learning paradigm. The clinical question addressed concerns the automated assessment of prostate cancer aggressiveness using MRI acquisitions.
+I am a biomedical engineer working in the field of AI applied to medical image analysis. The focus of my research activity, both as a research fellow and as a PhD student, is the building of Deep Learning models using the Few-Shot Learning approach through the Meta-Learning paradigm. The clinical question addressed concerns the automated assessment of prostate cancer aggressiveness using MRI acquisitions.
 
 ## Project collaborations :hammer_and_wrench:	
 
