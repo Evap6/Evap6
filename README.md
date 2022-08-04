@@ -9,6 +9,6 @@ I am a biomedical engineer working in the field of AI applied to medical image a
 
 ## Publications :page_with_curl:	
 
-- **On the Effectiveness of 3D Vision Transformers in Assessing Prostate Cancer Aggressiveness**, MEDXF, ICIAP 2021, 2022. **In press**.
+- [**On the Effectiveness of 3D Vision Transformers for the Prediction of Prostate Cancer Aggressiveness**](https://doi.org/10.1007/978-3-031-13324-4_27), Image Analysis and Processing. ICIAP 2022 Workshops, ICIAP 2022, 2022. 
 - [**Machine and Deep Learning Prediction Of Prostate Cancer Aggressiveness Using Multiparametric MRI**](https://doi.org/10.3389/fonc.2021.802964), Frontiers in Oncology, 2022. 
 - [**Technical report on the development and interpretation of convolutional neural networks for the classification of multiparametric MRI images on unbalanced datasets.     Case study: prostate cancer**](https://openportal.isti.cnr.it/doc?id=people______::b7be12271746a16b390c701d7fdb5403), ISTI - CNR Technical Report, 2021. ID 447265. 
