@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eva</h1>
 <h3 align="center">A biomedical engineer working in the field of AI applied to medical image analysis</h3>
 
-- 🔭 I’m currently working on [NAVIGATOR](http://navigator.med.unipi.it/), on [ProCAncer-I](https://www.procancer-i.eu/) and on [TAILOR](https://tailor-network.eu/) projects
+- 🔭 I’m currently working on **[NAVIGATOR](http://navigator.med.unipi.it/)**, on **[ProCAncer-I](https://www.procancer-i.eu/)** and on **[TAILOR](https://tailor-network.eu/)** projects
 
 - 🌱 I’m a PhD student in Information Engineering
 
 - 👩‍🔬 And a research fellow at ISTI-CNR
 
-- 📄 Look at my publications on [Google Scholar](https://scholar.google.com/citations?user=1e8A5YIAAAAJ&hl=it) and [Research Gate](https://www.researchgate.net/profile/Eva-Pachetti)
+- 📄 Look at my publications on **[Google Scholar](https://scholar.google.com/citations?user=1e8A5YIAAAAJ&hl=it)** and **[Research Gate](https://www.researchgate.net/profile/Eva-Pachetti)**
 
 - 📫 How to reach me **eva.pachetti@isti.cnr.it / eva.pachetti@phd.unipi.it**
 
