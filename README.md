@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eva</h1>
-<h3 align="center">A biomedical engineer working in the field of AI applied to medical image analysis</h3>
+<h3 align="center">I am a biomedical engineer and my research focuses on AI for medical image analysis</h3>
 
 - 🔭 I’m currently working on **[NAVIGATOR](http://navigator.med.unipi.it/)**, on **[ProCAncer-I](https://www.procancer-i.eu/)** and on **[TAILOR](https://tailor-network.eu/)** projects
 
